@@ -1,2 +1,2 @@
 # git
-Two dev working in the same directory
+Two developer working in the same directory
