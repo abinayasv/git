@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 hi
 hello  I'm swetha 
+=======
+hello
+
+its from abi 
+>>>>>>> abi
